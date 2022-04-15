@@ -1,0 +1,13 @@
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\DataBase.db
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.MyWindowsService.resources
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CopyComplete
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Users\Ivona\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
